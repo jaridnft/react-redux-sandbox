@@ -35,7 +35,7 @@ A collection of mini applications to practice with the React/Redux front-end sta
 - Lodash for added computation
 - State management with Redux
 
-<img src="./readme-images/demos/weather-demo.gif" width="400">
+<img src="./readme-images/demos/weather-demo.gif" width="600">
 
 ## Motivation
 
