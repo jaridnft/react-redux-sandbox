@@ -24,7 +24,7 @@ A collection of mini applications to practice with the React/Redux front-end sta
 - React router to create a SPA
 - API interface with axios
 - Lodash for added computation
-- State management with Redux
+- State management with Redux and redux-forms
 
 <img src="./readme-images/demos/blog-spa-demo.gif" width="400">
 
