@@ -83,7 +83,3 @@ Download or clone repo, then run the following commands in terminal inside each 
 
 `> npm run start`
 
-## @TODO
-
-* Add more styles to existing projects
-
